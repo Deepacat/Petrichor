@@ -455,6 +455,247 @@
             ]
         },
         {
+            "pakku_id": "tGNrK4AQD3kr5vDx",
+            "pakku_links": [
+                "vxjsFGPht1qIUSan"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "biomancy"
+            },
+            "name": {
+                "curseforge": "Biomancy"
+            },
+            "id": {
+                "curseforge": "492939"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "biomancy-neoforge-1.20.1-2.9.8.1-alpha.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/7417/643/biomancy-neoforge-1.20.1-2.9.8.1-alpha.0.jar",
+                    "id": "7417643",
+                    "parent_id": "492939",
+                    "hashes": {
+                        "sha1": "1bd1a270f9c974296ff4000fabe117eafd3fa6f2",
+                        "md5": "4fe403e03ae4c5c947042336d9f1cbe2"
+                    },
+                    "required_dependencies": [
+                        "388172"
+                    ],
+                    "size": 6351165,
+                    "date_published": "2026-01-04T18:01:08.883Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Oekopog7gOGB5wXu",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "biomancy-jei"
+            },
+            "name": {
+                "curseforge": "Biomancy JEI"
+            },
+            "id": {
+                "curseforge": "1635612"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "biomancy_jei-1.1.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8617/415/biomancy_jei-1.1.0.jar",
+                    "id": "8617415",
+                    "parent_id": "1635612",
+                    "hashes": {
+                        "sha1": "204ed2cef3274fa7cca35bb6bf51992d85e41cdd",
+                        "md5": "89dc1e2a3821123590a71e45d36bae65"
+                    },
+                    "required_dependencies": [
+                        "492939",
+                        "238222"
+                    ],
+                    "size": 63709,
+                    "date_published": "2026-08-10T15:57:28.520Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "p60OhDQgj8hMDIyX",
+            "pakku_links": [
+                "NEoGmSy1ZlwfWwQq"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "blood-magic"
+            },
+            "name": {
+                "curseforge": "Blood Magic "
+            },
+            "id": {
+                "curseforge": "224791"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "BloodMagic-1.18-1.20.1-3.3.8-50.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8516/586/BloodMagic-1.18-1.20.1-3.3.8-50.jar",
+                    "id": "8516586",
+                    "parent_id": "224791",
+                    "hashes": {
+                        "sha1": "2b5380bcfebcd475c3389c73cc45e0000692a76a",
+                        "md5": "77bc0a06061e6d9cadb8edc9e6b2b93d"
+                    },
+                    "required_dependencies": [
+                        "306770"
+                    ],
+                    "size": 15079434,
+                    "date_published": "2026-07-26T22:19:51.940Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "WiHxiYOdXhM4njf4",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "bookshelf"
+            },
+            "name": {
+                "curseforge": "Bookshelf"
+            },
+            "id": {
+                "curseforge": "228525"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Bookshelf-Forge-1.20.1-20.2.15.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7612/389/Bookshelf-Forge-1.20.1-20.2.15.jar",
+                    "id": "7612389",
+                    "parent_id": "228525",
+                    "hashes": {
+                        "sha1": "9df4908f606c6dc62a358b3e04e3fdedba59a12c",
+                        "md5": "984cc53b314436f57e3bf72b8a1ba62b"
+                    },
+                    "required_dependencies": [],
+                    "size": 343925,
+                    "date_published": "2026-02-12T01:55:52.110Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "RkTQ5VWguLfHD4HU",
+            "pakku_links": [
+                "wmU8Ahh6Nke9wTOu",
+                "NEoGmSy1ZlwfWwQq"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "botania"
+            },
+            "name": {
+                "curseforge": "Botania"
+            },
+            "id": {
+                "curseforge": "225643"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Botania-1.20.1-455-FORGE.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8702/79/Botania-1.20.1-455-FORGE.jar",
+                    "id": "8702079",
+                    "parent_id": "225643",
+                    "hashes": {
+                        "sha1": "ccef027af81977ed0ab9b5eaddd778d15a0a7786",
+                        "md5": "50ea7b2064a94fbbf9d58ccc99e47e94"
+                    },
+                    "required_dependencies": [
+                        "309927",
+                        "306770"
+                    ],
+                    "size": 12217470,
+                    "date_published": "2026-08-21T19:49:09.177Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "RER0rdnFvEdet8zT",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "botania-editor"
+            },
+            "name": {
+                "curseforge": "Botania Editor"
+            },
+            "id": {
+                "curseforge": "949058"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "BotaniaEditor-1.20.1-1.0.9.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5775/841/BotaniaEditor-1.20.1-1.0.9.jar",
+                    "id": "5775841",
+                    "parent_id": "949058",
+                    "hashes": {
+                        "sha1": "1655964298bc4726e86864703ad10632c40a6dd7",
+                        "md5": "d0eea09745795f6fb893e3a91f430720"
+                    },
+                    "required_dependencies": [
+                        "225643"
+                    ],
+                    "size": 64279,
+                    "date_published": "2024-10-02T08:14:42.043Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "H4ayyzOMRZjTz7kQ",
             "type": "MOD",
             "slug": {
@@ -870,6 +1111,44 @@
             ]
         },
         {
+            "pakku_id": "wmU8Ahh6Nke9wTOu",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "curios"
+            },
+            "name": {
+                "curseforge": "Curios API"
+            },
+            "id": {
+                "curseforge": "309927"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "curios-forge-5.14.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6418/456/curios-forge-5.14.1+1.20.1.jar",
+                    "id": "6418456",
+                    "parent_id": "309927",
+                    "hashes": {
+                        "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+                        "md5": "2fdcc97cbc66c4b2492b407c792e7159"
+                    },
+                    "required_dependencies": [],
+                    "size": 398066,
+                    "date_published": "2025-04-13T13:09:30.850Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "eYTECmNppvkNtIzs",
             "type": "MOD",
             "slug": {
@@ -903,6 +1182,51 @@
                     "required_dependencies": [],
                     "size": 76558,
                     "date_published": "2024-10-03T02:32:45.850Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "BCtmUgyOFHfA8E4K",
+            "pakku_links": [
+                "XO9va2Bjk9PbjBbf",
+                "MLiPQC8dkq4Yvb5J"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "dark-utilities"
+            },
+            "name": {
+                "curseforge": "Dark Utilities"
+            },
+            "id": {
+                "curseforge": "242195"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "DarkUtilities-Forge-1.20.1-17.0.6.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7612/437/DarkUtilities-Forge-1.20.1-17.0.6.jar",
+                    "id": "7612437",
+                    "parent_id": "242195",
+                    "hashes": {
+                        "sha1": "4853ea1e50ae683a5479587fe4f14c36bb47f186",
+                        "md5": "b948f3c73a1a6afca1bba9b4876fa831"
+                    },
+                    "required_dependencies": [
+                        "396234",
+                        "393149",
+                        "228525"
+                    ],
+                    "size": 174220,
+                    "date_published": "2026-02-12T02:12:42.463Z"
                 }
             ]
         },
@@ -1012,6 +1336,129 @@
                     "required_dependencies": [],
                     "size": 1121750,
                     "date_published": "2026-05-13T06:18:18.303Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ygDuIXX6E8BLGtwu",
+            "pakku_links": [
+                "i3VqFnShPVlRyhBx"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "easy-anvils"
+            },
+            "name": {
+                "curseforge": "Easy Anvils"
+            },
+            "id": {
+                "curseforge": "682567"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "EasyAnvils-v8.0.2-1.20.1-Forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5156/621/EasyAnvils-v8.0.2-1.20.1-Forge.jar",
+                    "id": "5156621",
+                    "parent_id": "682567",
+                    "hashes": {
+                        "sha1": "d44a8b549b27713a92d59148729bf374ff3e25f0",
+                        "md5": "d77ef2d7251b53392862f371f2e33163"
+                    },
+                    "required_dependencies": [
+                        "495476"
+                    ],
+                    "size": 141744,
+                    "date_published": "2024-03-04T09:07:28.933Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "mCHGNEvQ9lsE6HUH",
+            "pakku_links": [
+                "i3VqFnShPVlRyhBx"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "easy-magic"
+            },
+            "name": {
+                "curseforge": "Easy Magic"
+            },
+            "id": {
+                "curseforge": "456239"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "EasyMagic-v8.0.1-1.20.1-Forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4658/750/EasyMagic-v8.0.1-1.20.1-Forge.jar",
+                    "id": "4658750",
+                    "parent_id": "456239",
+                    "hashes": {
+                        "sha1": "9bfb5d63ac2e03ecdab8755c968ffa25b799469b",
+                        "md5": "4818f5240dc07c9da2fafe9b1c344305"
+                    },
+                    "required_dependencies": [
+                        "495476"
+                    ],
+                    "size": 115947,
+                    "date_published": "2023-07-22T19:00:55.413Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "7q5qgtJYEzJEPPHR",
+            "pakku_links": [
+                "i3VqFnShPVlRyhBx"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "easy-shulker-boxes"
+            },
+            "name": {
+                "curseforge": "Easy Shulker Boxes"
+            },
+            "id": {
+                "curseforge": "594006"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "EasyShulkerBoxes-v8.0.2-1.20.1-Forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5157/55/EasyShulkerBoxes-v8.0.2-1.20.1-Forge.jar",
+                    "id": "5157055",
+                    "parent_id": "594006",
+                    "hashes": {
+                        "sha1": "c5245255c422afa2d627e89bbbf4a2f1d5d721e8",
+                        "md5": "e51ded9f25728d16587084eb7adf9fd0"
+                    },
+                    "required_dependencies": [
+                        "495476"
+                    ],
+                    "size": 581742,
+                    "date_published": "2024-03-04T12:50:56.090Z"
                 }
             ]
         },
@@ -1431,6 +1878,42 @@
             ]
         },
         {
+            "pakku_id": "vxjsFGPht1qIUSan",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "geckolib"
+            },
+            "name": {
+                "curseforge": "GeckoLib"
+            },
+            "id": {
+                "curseforge": "388172"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "geckolib-forge-1.20.1-4.8.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8285/794/geckolib-forge-1.20.1-4.8.4.jar",
+                    "id": "8285794",
+                    "parent_id": "388172",
+                    "hashes": {
+                        "sha1": "81982cc287f80ffabb2fd36d22cc95e4255c739d",
+                        "md5": "83c73bcbf5778235569025ed968dc3ec"
+                    },
+                    "required_dependencies": [],
+                    "size": 1038209,
+                    "date_published": "2026-06-20T11:07:46.873Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "LAtRsmzJd6S8dBL6",
             "type": "MOD",
             "slug": {
@@ -1503,6 +1986,44 @@
                     "required_dependencies": [],
                     "size": 371650,
                     "date_published": "2026-09-02T06:27:18.757Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "5ujucv4RGt5os0mo",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "interactive-corporea-reinfused"
+            },
+            "name": {
+                "curseforge": "Interactive Corporea Reinfused"
+            },
+            "id": {
+                "curseforge": "1526815"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "interactive_corporea-1.2.1-beta.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8273/939/interactive_corporea-1.2.1-beta.jar",
+                    "id": "8273939",
+                    "parent_id": "1526815",
+                    "hashes": {
+                        "sha1": "742296588eb9e47996190481a89ceed1647b75bf",
+                        "md5": "bafcc379384c4550e95940d176857947"
+                    },
+                    "required_dependencies": [
+                        "225643"
+                    ],
+                    "size": 1344894,
+                    "date_published": "2026-06-18T16:29:12.970Z"
                 }
             ]
         },
@@ -1767,6 +2288,42 @@
                     ],
                     "size": 321976,
                     "date_published": "2025-03-14T06:26:02.543Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "uALD9YMbYOWbxed0",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "ldlib"
+            },
+            "name": {
+                "curseforge": "LDLib"
+            },
+            "id": {
+                "curseforge": "626676"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ldlib-forge-1.20.1-1.0.52.a.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8830/518/ldlib-forge-1.20.1-1.0.52.a.jar",
+                    "id": "8830518",
+                    "parent_id": "626676",
+                    "hashes": {
+                        "sha1": "b341bc49b53a1e1e2566e369339ab66bb53167c6",
+                        "md5": "1644c0566b831a276eaa599c88ed7409"
+                    },
+                    "required_dependencies": [],
+                    "size": 3125867,
+                    "date_published": "2026-09-07T14:39:21.410Z"
                 }
             ]
         },
@@ -2069,6 +2626,45 @@
             ]
         },
         {
+            "pakku_id": "X4PgpkFnfZIenMIo",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "multiblocked2-unofficial"
+            },
+            "name": {
+                "curseforge": "Multiblocked2 Unofficial"
+            },
+            "id": {
+                "curseforge": "1562745"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "multiblocked2-unofficial-1.20.1-1.0.40.g.fix5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8872/65/multiblocked2-unofficial-1.20.1-1.0.40.g.fix5.jar",
+                    "id": "8872065",
+                    "parent_id": "1562745",
+                    "hashes": {
+                        "sha1": "d512ff2e5b3f5bdc1f0f6d863a7742dadbd21499",
+                        "md5": "faad8bd376377e3c72c0d41eba97dae3"
+                    },
+                    "required_dependencies": [
+                        "626676"
+                    ],
+                    "size": 2381762,
+                    "date_published": "2026-09-13T12:15:53.813Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ARNz4OdHYrhzkpnO",
             "type": "MOD",
             "slug": {
@@ -2260,6 +2856,42 @@
             ]
         },
         {
+            "pakku_id": "NEoGmSy1ZlwfWwQq",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "patchouli"
+            },
+            "name": {
+                "curseforge": "Patchouli"
+            },
+            "id": {
+                "curseforge": "306770"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Patchouli-1.20.1-85-FORGE.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7731/17/Patchouli-1.20.1-85-FORGE.jar",
+                    "id": "7731017",
+                    "parent_id": "306770",
+                    "hashes": {
+                        "sha1": "d4614507d6e4c7cb464bba5eca891978272062ef",
+                        "md5": "78bd223d069fa9491e940d99a8f426b3"
+                    },
+                    "required_dependencies": [],
+                    "size": 642732,
+                    "date_published": "2026-03-08T21:08:44.413Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "96QQHwlFMptVig0i",
             "pakku_links": [
                 "MOxE09PMD2kSuqKm"
@@ -2298,6 +2930,45 @@
                     ],
                     "size": 96892,
                     "date_published": "2023-09-12T22:25:59.820Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "XO9va2Bjk9PbjBbf",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "pig-pen-cipher"
+            },
+            "name": {
+                "curseforge": "Pig Pen Cipher"
+            },
+            "id": {
+                "curseforge": "396234"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "PigPen-Forge-1.20.1-15.0.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7613/222/PigPen-Forge-1.20.1-15.0.3.jar",
+                    "id": "7613222",
+                    "parent_id": "396234",
+                    "hashes": {
+                        "sha1": "6361b02674f6eaf9192f04d705f8086ec153e062",
+                        "md5": "8c490b1e6becf94250be9e7b1d770bde"
+                    },
+                    "required_dependencies": [
+                        "228525"
+                    ],
+                    "size": 5355,
+                    "date_published": "2026-02-12T07:36:22.783Z"
                 }
             ]
         },
@@ -2412,6 +3083,42 @@
                     ],
                     "size": 2365466,
                     "date_published": "2024-04-01T14:08:56.003Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "i3VqFnShPVlRyhBx",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "puzzles-lib"
+            },
+            "name": {
+                "curseforge": "Puzzles Lib"
+            },
+            "id": {
+                "curseforge": "495476"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6918/565/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+                    "id": "6918565",
+                    "parent_id": "495476",
+                    "hashes": {
+                        "sha1": "285b7c7616971338ccbe0022c9ea0f8ad3036aaf",
+                        "md5": "19f23e3040eaadc7c30ae38f5a3dec68"
+                    },
+                    "required_dependencies": [],
+                    "size": 1342987,
+                    "date_published": "2025-08-23T12:27:32.200Z"
                 }
             ]
         },
@@ -2601,6 +3308,45 @@
                     "required_dependencies": [],
                     "size": 1798244,
                     "date_published": "2025-02-12T21:26:47.347Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "MLiPQC8dkq4Yvb5J",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "runelic"
+            },
+            "name": {
+                "curseforge": "Runelic"
+            },
+            "id": {
+                "curseforge": "393149"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Runelic-Forge-1.20.1-18.0.4.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7613/226/Runelic-Forge-1.20.1-18.0.4.jar",
+                    "id": "7613226",
+                    "parent_id": "393149",
+                    "hashes": {
+                        "sha1": "b74cf19aa180a1dcf9e3f079d571c9c160e11ae3",
+                        "md5": "e79015a88f88a4ae542c76ec221cdba7"
+                    },
+                    "required_dependencies": [
+                        "228525"
+                    ],
+                    "size": 68626,
+                    "date_published": "2026-02-12T07:39:14.347Z"
                 }
             ]
         },
@@ -2796,6 +3542,42 @@
                     ],
                     "size": 443978,
                     "date_published": "2025-01-18T20:48:18.013Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "xPQf1Ljf71dpkxVZ",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "sons-of-sins"
+            },
+            "name": {
+                "curseforge": "Sons Of Sins"
+            },
+            "id": {
+                "curseforge": "538529"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sons_of_sins-2.2.1-forge-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/8721/434/sons_of_sins-2.2.1-forge-1.20.1.jar",
+                    "id": "8721434",
+                    "parent_id": "538529",
+                    "hashes": {
+                        "sha1": "d1b921f16fc19bd5cc6ee1ca5c4ad5623fb5f261",
+                        "md5": "00287111170b73b75cd242b751a18541"
+                    },
+                    "required_dependencies": [],
+                    "size": 5283097,
+                    "date_published": "2026-08-24T03:25:51.900Z"
                 }
             ]
         },
