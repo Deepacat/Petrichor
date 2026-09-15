@@ -1,0 +1,312 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "1"
+	group: ""
+	id: "0817539B2D819F83"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "48903FFE0953E155"
+			subtitle: "pots around city"
+			tasks: [{
+				id: "251666B8ABFA9472"
+				item: "minecraft:decorated_pot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["48903FFE0953E155"]
+			id: "1B9F0872A61A554B"
+			subtitle: "sharp enough to cut wool into string"
+			tasks: [{
+				id: "1A0D96AF1D86CB93"
+				item: {
+					Count: 1
+					id: "ftbfiltersystem:smart_filter"
+					tag: {
+						"ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:decorated_pot_sherds)"
+					}
+				}
+				title: "Any #minecraft:decorated_pot_sherds"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["48903FFE0953E155"]
+			id: "0A8486A299732679"
+			subtitle: "from pot loot"
+			tasks: [{
+				id: "593B6ABBCB485A02"
+				item: "minecraft:bone"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"545B08CFE27635EA"
+				"48903FFE0953E155"
+				"1B9F0872A61A554B"
+			]
+			description: [""]
+			id: "5BCD7D40CCEC1795"
+			subtitle: "string for tools"
+			tasks: [{
+				id: "7A42073D1E2CC47A"
+				item: "minecraft:string"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"5BCD7D40CCEC1795"
+				"0A8486A299732679"
+			]
+			id: "0C15A11280EEA7F5"
+			subtitle: "pickaxe for stone, sword to kill blob for ash"
+			tasks: [
+				{
+					id: "4079995D01161BBA"
+					item: {
+						Count: 1
+						id: "sons_of_sins:osseous_pickaxe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5353836B89D362AE"
+					item: {
+						Count: 1
+						id: "sons_of_sins:osseous_sword"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			id: "545B08CFE27635EA"
+			subtitle: "wool from city"
+			tasks: [{
+				id: "32D7D42A1EADF1D5"
+				item: "minecraft:white_wool"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			id: "70EDC4A092A11B01"
+			subtitle: "takes something more to cut a god"
+			tasks: [{
+				id: "50A37422D1B3007D"
+				item: "minecraft:echo_shard"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"70EDC4A092A11B01"
+				"5BCD7D40CCEC1795"
+				"41C519B9A8FF2417"
+			]
+			id: "5B370850A7988B68"
+			subtitle: "tied city loot together for something able to hurt"
+			tasks: [{
+				id: "26A8525F3BDD0672"
+				item: {
+					Count: 1
+					id: "bloodmagic:sacrificialdagger"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5B370850A7988B68"]
+			id: "7029B98A1F991BCA"
+			subtitle: "cut bits off urself, flesh for altar"
+			tasks: [
+				{
+					id: "2ACEE8BC610E268D"
+					item: "biomancy:flesh_blob_spawn_egg"
+					type: "item"
+				}
+				{
+					id: "539CE583289498F3"
+					item: "biomancy:flesh_bits"
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0C15A11280EEA7F5"]
+			id: "16546316641ECA11"
+			tasks: [{
+				id: "7760928218EC1424"
+				item: "minecraft:deepslate"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			id: "41C519B9A8FF2417"
+			tasks: [{
+				id: "2E7E2CAF19572F47"
+				item: "minecraft:amethyst_shard"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5BCD7D40CCEC1795"]
+			id: "0152D36A5BCEE5E6"
+			subtitle: "tie everything together"
+			tasks: [{
+				id: "1CDA77DA4609F502"
+				item: "quark:rope"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"16546316641ECA11"
+				"5B370850A7988B68"
+				"7029B98A1F991BCA"
+				"6FC626CB6AAC8ACF"
+			]
+			id: "30E3021DC4CFF013"
+			subtitle: "infuse life into things using your blood"
+			tasks: [{
+				id: "7E3379092FD8C097"
+				item: "bloodmagic:altar"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"0C15A11280EEA7F5"
+				"7029B98A1F991BCA"
+			]
+			id: "0B703EE5ABDD417D"
+			subtitle: "remnants of life as dust"
+			tasks: [{
+				id: "0E935867B2552D48"
+				item: "sons_of_sins:ether_ashes"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0B703EE5ABDD417D"]
+			id: "6FC626CB6AAC8ACF"
+			subtitle: "urn with ash inside for recipes?"
+			tasks: [{
+				id: "44915FEB5F47B4DF"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						Parent: {
+							Items: [ ]
+							Size: 9
+						}
+					}
+					id: "sons_of_sins:urn"
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["30E3021DC4CFF013"]
+			id: "6C57FF1DF2ED75B8"
+			subtitle: "costs urn with alot of ash and alot of altar LP?"
+			tasks: [{
+				id: "1EE560DEC1F0DCD1"
+				item: "sons_of_sins:blood_bucket"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["6C57FF1DF2ED75B8"]
+			id: "2F02B0FF478EA6E2"
+			subtitle: "used as an energy source for something"
+			tasks: [{
+				id: "239D1A8CF67C2A9F"
+				item: "sons_of_sins:crystallized_ether"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"7029B98A1F991BCA"
+				"1B2953D628D4DE79"
+			]
+			id: "3703CE485A2CA0C7"
+			subtitle: "some failed \"forced evolution\", making another flesh monster, but its useful progress"
+			tasks: [{
+				id: "28BE704219C3CA29"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3703CE485A2CA0C7"]
+			id: "3E331C5F7248A48F"
+			subtitle: "able to create some normal animal, meat used for better biomancy"
+			tasks: [{
+				id: "27B0F949EE4ED0F5"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2F02B0FF478EA6E2"]
+			id: "1B2953D628D4DE79"
+			subtitle: "custom machine? some process to make a mob"
+			tasks: [{
+				id: "588ED79AF66CF893"
+				type: "checkmark"
+			}]
+			x: 7.0d
+			y: -3.0d
+		}
+	]
+	title: "thinking"
+}

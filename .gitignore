@@ -74,7 +74,8 @@ kubejs/modpackData/**
 /config/jade/sort-order.json
 /config/MouseTweaks.cfg
 /config/dynamic_fps.json
-
+/config/axiom/
+# Config exceptions
 !/config/defaultsettings/**
 !/config/sophisticatedstorage-client.toml
 !/config/**/darkmodeeverywhere-client.toml

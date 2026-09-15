@@ -1,5 +1,5 @@
 {
-  "enableCreativeModeTabs": true,
+  "enableCreativeModeTabs": false,
   "creativeTabSidebarTarget": "INDEX",
   "creativeTabTheme": "SYNCED",
   "tabAlignment": "STRETCH",
@@ -8,8 +8,8 @@
   "horizontalTabsWidth": 22,
   "horizontalTabsHeight": 24,
   "tabIconSize": 16,
-  "syncSelectedCreativeModeTab": true,
-  "showCreativeTabNameInSearchbar": true,
+  "syncSelectedCreativeModeTab": false,
+  "showCreativeTabNameInSearchbar": false,
   "maxSidebarTabs": 0,
   "disabledCreativeModeTabs": [
     "minecraft:op_blocks"
@@ -43,7 +43,7 @@
   "searchWidgetVerticalPadding": 2,
   "searchWidgetSuggestionTextColor": -8355712,
   "searchWidgetTextColor": -1,
-  "searchWidgetUseVanillaTexture": false,
+  "searchWidgetUseVanillaTexture": true,
   "searchById": true,
   "searchModPrefix": true,
   "searchTagPrefix": true,
