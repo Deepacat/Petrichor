@@ -176,10 +176,13 @@
     "nextUpdateNag": 0,
     "shownIntroduction": true,
     "showOpenConfigTip": true,
-    "showOpenContextMenuTip": true,
+    "showOpenContextMenuTip": false,
     "showOpenEditorTip": false,
     "completedTutorials": [
-      "introduction"
+      "introduction",
+      "magic_select_tool",
+      "selection",
+      "box_select_tool"
     ],
     "openEditorWindowTypes": [
       "tools",
