@@ -1,14 +1,15 @@
 {
-    "name": "Template Modpack",
+    "name": "Petrichor",
     "version": "DEV",
-    "description": "Template Modpack by Deepacat",
-    "author": "Deepacat, You!",
+    "description": "Lonely a God sits at the end of the world.",
+    "author": "Team Deepaslate tilles (Deepacat & Tilles)",
     "overrides": [
         "config",
         "defaultconfigs",
         "configureddefaults",
         "kubejs",
         "ldlib",
+        "SAVE_BACKUP_DONT_DEL",
         "!kubejs/probe/",
         "!kubejs/modpackData/**",
         "kubejs/modpackData/*.txt",
@@ -38,7 +39,14 @@
         "worldedit": {
             "export": false
         },
+        "worldeditcui": {
+            "export": false
+        },
         "probejs": {
+            "side": "CLIENT",
+            "export": false
+        },
+        "axiom": {
             "side": "CLIENT",
             "export": false
         }
